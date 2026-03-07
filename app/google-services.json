@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556121961944",
+    "project_id": "app-entorno-seguro-eb566",
+    "storage_bucket": "app-entorno-seguro-eb566.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556121961944:android:9bb5297f8b84c59f176ead",
+        "android_client_info": {
+          "package_name": "com.example.myappaut"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkIhc0HpgQLbTzcpr-Qth2p5BhhsGi1vo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

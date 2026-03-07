@@ -1,11 +1,23 @@
-<div align="center">
+# Universal Android Recovery Engine
 
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+Universal Android Recovery Engine is an open-source tool designed to democratize access to BigQuery data via natural language, while providing system-level recovery controls for Android devices.
 
-  <h1>Built with AI Studio</h2>
+## Features
+- **Natural Language to SQL**: Query BigQuery datasets using simple text prompts.
+- **System Commander**: Execute system-level commands (Reboot Recovery, Bootloader) on rooted Android devices.
+- **Firebase Auth Integration**: Secure access using Firebase Authentication.
+- **Google Cloud IAM Enforcement**: Enforce permissions at the data layer using Google Cloud IAM.
 
-  <p>The fastest path from prompt to production with Gemini.</p>
+## Installation
+1. Clone the repository.
+2. Install dependencies: `npm install`.
+3. Configure environment variables in `.env`.
+4. Run the development server: `npm run dev`.
 
-  <a href="https://aistudio.google.com/apps">Start building</a>
+## Monetization & Resources
+The application includes a structure for:
+- **Premium Offers**: Specialized data visualizations and advanced system controls.
+- **Resource Generation**: Efficient data processing and reporting tools.
 
-</div>
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
