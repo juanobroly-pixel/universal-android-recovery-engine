@@ -33,7 +33,7 @@
     "typescript": "~5.8.2",
     "vite": "^6.2.0"
   },
-  "resolutions": {
-    "motion-utils": "10.16.2"
+  "overrides": {
+    "motion-utils": "12.29.2"
   }
 }
