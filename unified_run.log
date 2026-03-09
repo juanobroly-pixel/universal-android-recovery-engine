@@ -139,3 +139,33 @@ dist/assets/index-C-8Rv5YB.css   21.30 kB │ gzip:   5.86 kB
 dist/assets/index-bftu8JHQ.js   332.98 kB │ gzip: 105.79 kB
 ✓ built in 3.73s
 Añadiendo cambios al índice...
+Creando commit con mensaje: fix: firebase.json configuration and deployment
+[main de24912] fix: firebase.json configuration and deployment
+ 81 files changed, 1463 insertions(+), 3255 deletions(-)
+ create mode 100644 .firebase/hosting.ZGlzdA.cache
+ delete mode 100644 dist/assets/index-COBbcH9G.js
+ create mode 100644 dist/assets/index-bftu8JHQ.js
+ delete mode 100644 node_modules/framer-motion/dist/cjs/feature-bundle-jADFMKLx.js
+ delete mode 100644 node_modules/framer-motion/dist/cjs/feature-bundle-jADFMKLx.js.map
+ delete mode 100644 node_modules/motion-dom/dist/es/animation/generators/spring/defaults.mjs
+ delete mode 100644 node_modules/motion-dom/dist/es/animation/generators/spring/defaults.mjs.map
+ delete mode 100644 node_modules/motion-dom/dist/es/animation/generators/spring/find.mjs
+ delete mode 100644 node_modules/motion-dom/dist/es/animation/generators/spring/find.mjs.map
+ delete mode 100644 node_modules/motion-dom/dist/es/animation/generators/spring/index.mjs
+ delete mode 100644 node_modules/motion-dom/dist/es/animation/generators/spring/index.mjs.map
+ create mode 100644 package.json.bak
+ create mode 100644 unified_run.log
+Preparando push...
+FORCE=1: empujando sin confirmación...
+To https://github.com/juanobroly-pixel/universal-android-recovery-engine
+   509c765..de24912  main -> main
+Desplegando a Firebase project=app-entorno-seguro-eb566 (sin confirmación)...
+
+Error: There was an error loading firebase.json:
+
+Parse Error in /home/user/universal-android-recovery-engine/firebase.json:
+
+Unexpected token 'j' at 2:1
+json
+^
+File: "/home/user/universal-android-recovery-engine/firebase.json"
